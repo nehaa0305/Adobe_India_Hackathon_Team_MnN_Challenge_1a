@@ -1,0 +1,100 @@
+{
+  "title": "The magic of Prince",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "The magic of Prince",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "#1: Hyphenation",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "#2: Rounded borders",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "#3: Character substitution",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "#4: HTTP support",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "#5: Web fonts",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "#6: Image resolution",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "#7: Columns",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "#8: CMYK colors",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "#9: Counters",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "#10: Crop and cross marks",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "#11: Cross-references",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "#12: Math",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "#13: Footnotes",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "#14: Leaders",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "#15: SVG",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "#16: Page floats",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "#17: Headers and footers",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "#18: PDF Bookmarks",
+      "page": 2
+    }
+  ]
+}
