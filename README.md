@@ -17,21 +17,7 @@ This project parses **PDF documents** and generates a clean, structured **outlin
 
 ---
 
-##  Directory Structure
-**project/
-│
-├── input_dir/ # Folder containing input PDFs
-├── output_dir/ # Final JSON files per PDF
-├── utils/
-│ ├── ocr_utils.py # OCR + Language detection logic
-│ └── llama_parse_utils.py # LlamaParse + formatting logic
-└──additional heading+level classifier logic
-  
-│
-├── pipeline.py # Main pipeline runner
-├── Dockerfile # For containerization
-└── README.md**
----
+
 
 ## ⚙️ System Requirements
 
