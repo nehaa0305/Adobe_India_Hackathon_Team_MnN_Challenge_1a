@@ -24,7 +24,7 @@ This project parses **PDF documents** and generates a clean, structured **outlin
 - **Python 3.9+**
 - **Tesseract OCR installed**
 - **Poppler installed** (for `pdf2image`)
-- Internet access (for LlamaParse API)
+  
 
 > 💡 Supports up to **16GB RAM** and **8 CPU cores**.
 
