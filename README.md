@@ -99,3 +99,11 @@ For each `filename.pdf` in `input_dir`, a corresponding `filename.json` is creat
 }
 
 
+
+## Docker Instructions
+
+docker build -t llama-notebook 
+docker run --rm llama-notebook
+
+
+
