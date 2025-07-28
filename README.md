@@ -77,33 +77,16 @@ This can be added as a downstream analytics task.
 
 ---
 
-## Output Format
-
-For each `filename.pdf` in `input_dir`, a corresponding `filename.json` is created in `output_dir`:
-
-```json
-{
-  "title": "International Foundation Level Extension – Agile Tester",
-  "outline": [
-    {
-      "level": "H1",
-      "text": "Introduction",
-      "page": 1
-    },
-    {
-      "level": "H2",
-      "text": "Scope",
-      "page": 2
-    }
-  ]
-}
 
 
 
 ## Docker Instructions
 
-docker build -t llama-notebook 
+You can run the entire LlamaParse-based multilingual PDF processing pipeline using Docker:
+
+docker build -t llama-notebook .
 docker run --rm llama-notebook
+
 
 
 
