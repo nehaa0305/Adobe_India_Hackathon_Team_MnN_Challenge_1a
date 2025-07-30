@@ -5,8 +5,15 @@ torchvision
 detectron2 @ git+https://github.com/facebookresearch/detectron2.git@v0.5
 pycocotools
 pillow==9.5.0
-layoutparser
 opencv-python
 numpy
 pandas
 torch
+collections
+threading
+time
+re
+cv2
+PIL
+dataclasses
+io
