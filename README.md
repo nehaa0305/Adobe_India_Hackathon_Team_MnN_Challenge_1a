@@ -66,22 +66,13 @@ Preserves order of appearance in the document
 
 ## 🐳 Docker Setup
 ## 1️⃣ Build the Docker Image
-bash
-Copy
-Edit
+
 docker build -t pdf-extractor-app .
 This creates an image named pdf-extractor-app with all system and Python dependencies installed.
 
 ## 2️⃣ Run the Script
 To run process_pdfs.py inside the container:
 
-bash
-Copy
-Edit
-docker run --rm -v "$(pwd)":/app pdf-extractor-app
-On Windows CMD, use:
 
-cmd
-Copy
-Edit
-docker run --rm -v "%cd%":/app pdf-extractor-app
+docker run --rm -v "$(pwd)":/app pdf-extractor-app
+
