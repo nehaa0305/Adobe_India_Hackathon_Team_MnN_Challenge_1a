@@ -5,6 +5,7 @@ import logging
 from pathlib import Path
 from typing import List, Dict, Tuple, Optional
 import fitz
+import graph
 import numpy as np
 from collections import defaultdict, Counter
 import threading
