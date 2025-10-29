@@ -14,6 +14,7 @@ import time
 import re
 import cv2
 from PIL import Image
+import keras
 import layoutparser as lp
 import torch
 import pandas as pd
