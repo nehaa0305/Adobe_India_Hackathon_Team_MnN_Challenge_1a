@@ -3,6 +3,7 @@ import os
 import json
 import logging
 from pathlib import Path
+import numpy
 from typing import List, Dict, Tuple, Optional
 import fitz
 import numpy as np
