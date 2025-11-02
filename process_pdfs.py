@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import List, Dict, Tuple, Optional
 import fitz
 import graph
+
 import numpy as np
 from collections import defaultdict, Counter
 import threading
@@ -127,7 +128,7 @@ class AdvancedPDFHeadingExtractor:
     
     def extract_text_with_metadata(self, doc: fitz.Document) -> List[Dict]:
         text_blocks = []
-        
+        text_blocks.append("")
         for page_num in range(len(doc)):
             page = doc[page_num]
             
